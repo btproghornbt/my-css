@@ -1,0 +1,45 @@
+.typography h1, .typography h2, .typography h3, .typography h4, .typography h5, .typography h6, .typography p, .typography.editor h1, .typography.editor h2, .typography.editor h3, .typography.editor h4, .typography.editor h5, .typography.editor h6, .typography.editor p {
+    color: #f7efef;
+}
+
+
+
+
+.single-post-container {
+    background: #1e1e1e;
+}
+
+.post .post-header .meta-author-wrap.with-photo .meta-right-column .meta-author a {
+    color: white;
+}
+
+.use-theme-bg table.post-meta.alternative-meta tr td.post-meta-item.post-date, .use-theme-bg table.post-meta.alternative-meta tr td.post-meta-item.post-draft, table.post-meta.alternative-meta tr td.post-meta-item.post-date, table.post-meta.alternative-meta tr td.post-meta-item.post-draft {
+    color: var(--print_on_web_bg_color, white); 
+    display: flex;
+    align-items: center;
+}
+
+
+.meta-author-contents{
+    color: #f7efef;
+}
+
+a {
+    color: white;
+}
+
+.home-page {
+    background: #1e1e1e;
+}
+.comment .comment-actions>span a:not(.like-button), .comment .comment-meta>span a:not(.like-button), .comment .show-all-toggle>span a:not(.like-button) {
+    color: white;
+    text-decoration: none;
+}
+
+.typography h1 a, .typography h2 a, .typography h3 a, .typography h4 a, .typography h5 a, .typography h6 a, .typography p a, .typography.editor h1 a, .typography.editor h2 a, .typography.editor h3 a, .typography.editor h4 a, .typography.editor h5 a, .typography.editor h6 a, .typography.editor p a {
+    color: #f7efef;
+    text-decoration: underline;
+}
+.use-theme-bg .post .captioned-image-container figcaption a, .use-theme-bg .post .page-title, .use-theme-bg .post .page-title a, .use-theme-bg .post .subtitle, .use-theme-bg .post h1, .use-theme-bg .post h1 a, .use-theme-bg .post h1.title a, .use-theme-bg .post h2, .use-theme-bg .post h2 a, .use-theme-bg .post h3, .use-theme-bg .post h3 a, .use-theme-bg .post h4, .use-theme-bg .post h4 a, .use-theme-bg .post h5, .use-theme-bg .post h5 a, .use-theme-bg .post h6, .use-theme-bg .post h6 a, .use-theme-bg .post p, .use-theme-bg .post p a {
+    color: white;
+}
